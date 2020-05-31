@@ -1,7 +1,7 @@
 # awesome-python3-webapp
 跟着廖大学Python，建blog
 
-## day01
+## Day01
 
 建立初始目录
 
@@ -25,3 +25,6 @@ awesome-python3-webapp/  <-- 根目录
 +- LICENSE               <-- 代码LICENSE
 ```
 
+## Day02
+
+编写Web App骨架
